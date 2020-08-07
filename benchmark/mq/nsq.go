@@ -1,7 +1,7 @@
 package mq
 
 import (
-	"github.com/bitly/go-nsq"
+	"github.com/nsqio/go-nsq"
 	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
