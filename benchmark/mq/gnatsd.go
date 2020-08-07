@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/jaehoonkim/mq-benchmarking/benchmark"
 	"github.com/nats-io/nats"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type Gnatsd struct {

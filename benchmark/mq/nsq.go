@@ -1,8 +1,8 @@
 package mq
 
 import (
+	"github.com/jaehoonkim/mq-benchmarking/benchmark"
 	"github.com/nsqio/go-nsq"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type Nsq struct {

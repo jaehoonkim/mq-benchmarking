@@ -3,7 +3,7 @@ package mq
 import (
 	"runtime"
 
-	"github.com/tylertreat/mq-benchmarking/benchmark"
+	"github.com/jaehoonkim/mq-benchmarking/benchmark"
 	"gopkg.in/project-iris/iris-go.v1"
 )
 

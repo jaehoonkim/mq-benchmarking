@@ -1,7 +1,7 @@
 package mq
 
 import (
-	"github.com/tylertreat/mq-benchmarking/benchmark"
+	"github.com/jaehoonkim/mq-benchmarking/benchmark"
 	"gopkg.in/stomp.v1"
 )
 

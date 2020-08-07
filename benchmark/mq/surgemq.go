@@ -3,8 +3,8 @@ package mq
 import (
 	"github.com/surge/surgemq/service"
 
+	"github.com/jaehoonkim/mq-benchmarking/benchmark"
 	"github.com/surgemq/message"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type SurgeMQ struct {
